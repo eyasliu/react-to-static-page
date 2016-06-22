@@ -1,0 +1,14 @@
+{
+  "pages": [
+    {
+      "title": "首页",
+      "author": "Eyas",
+      "name": "index"
+    },
+    {
+      "title": "关于",
+      "author": "Eyas",
+      "name": "about"
+    }
+  ]
+}
